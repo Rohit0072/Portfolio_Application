@@ -11,8 +11,8 @@ with col1:
 with col2:
     st.title("Rohit Singh")
     content = """
-    Hi My name is Rohit Singh. Ik'm a Student a BCA student
-     and I have Knowledge about Python and C++.
+    Hi My name is Rohit Singh. I am a BCA student
+     and I have Knowledge about Python, JavaScript, Web-development, SQL Server-Management and C++.
      I'm still a learner and I am Progressing very fast.
     """
     st.info(content)
