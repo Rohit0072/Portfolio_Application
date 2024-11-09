@@ -30,6 +30,3 @@ This is a web-based portfolio designed to showcase various Python projects and w
     ```bash
     streamlit run Home.py
     ```
-
-## License
-This project is licensed under the MIT License.
